@@ -28,7 +28,7 @@ The other data used in the one that I scraped my own and you can see how it can 
 
 We end up with one DataSet resulting from the merge by name of the two previous ones. 
 
-#### DATA PROCESSING
+#### INFO OF THE REPOSITORY
 
 . In Back_Code you have 3 different python books explaining the process step by step: 
 
@@ -55,6 +55,9 @@ We end up with one DataSet resulting from the merge by name of the two previous 
     4. Streamlit_app : 
     
         - The code to run the local env. to test the recommender 
+        
+ 
+ . In Summary_Ppt you will see a quick ppt used to present the recommender and containing the references and a video showing how the recommender performs. (Please find the video at the end of this file). 
          
 
 #### CONCLUSIONS
