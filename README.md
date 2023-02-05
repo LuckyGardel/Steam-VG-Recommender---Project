@@ -22,7 +22,7 @@ Data:
 
 I have chosen a dataset containing information about more than 40k games from Steam. 
 
-The originial dataset can be found here: https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset
+The original dataset can be found here: https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset
 
 The other data used in the one that I scraped my own and you can see how it can be done in the folder Back_Code -> Scraping Steam Store
 
