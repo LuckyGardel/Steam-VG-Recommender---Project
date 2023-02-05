@@ -66,4 +66,4 @@ We end up with one DataSet resulting from the merge by name of the two previous 
 
 . As you can see in the video below, after the user inputs the name of a game he likes in the search tab and clicks recommend, the app will spit 10 similar results with completely different prices so the user can click in the url next to it to go directly to the steam store, compare and enjoy. 
 
-https://www.youtube.com/watch?v=2WI_MvEfooI&t=38s 
+https://www.youtube.com/watch?v=2WI_MvEfooI
