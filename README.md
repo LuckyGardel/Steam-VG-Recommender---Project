@@ -2,7 +2,7 @@
 
 #### BUILDING A VIDEOGAMES RECOMMENDER BASED ON STEAM PLATFORM
 
-The purpose of this project is to build a videogames recommendation app capable of returning 10 similar results as the one which the user inputs in the serach tab. 
+The purpose of this project is to build a videogames recommendation app capable of returning 10 similar results as the one which the user inputs in the search tab. 
 
 
 #### BACKGROUND AND DATA
